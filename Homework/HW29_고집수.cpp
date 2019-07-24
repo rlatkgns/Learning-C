@@ -1,5 +1,3 @@
-// HW29 고집수
-// 작성자 : 렉토피아 정혜경 강사
 #pragma warning (disable : 4996)
 #define MYFLUSH { while(getchar()!='\n'); }
 #include<stdio.h>

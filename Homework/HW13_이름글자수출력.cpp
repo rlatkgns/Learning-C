@@ -1,5 +1,3 @@
-// HW13 이름의 글자수 뒷문자에 맞춰 출력하기
-// 작성자 : 렉토피아 정혜경 강사
 #pragma warning (disable : 4996)
 #include<stdio.h>
 #include<string.h>
